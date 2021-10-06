@@ -18,7 +18,7 @@ Ajout de la première volée de fichiers.
 * fonctions.scss : Ma liste de fonctions SCSS.
 
 ## TEMPLATES
-* template PHP.rar : Un template de base pour vos sites PHP.
+* template_php.rar : Un template de base pour vos sites PHP.
 
 ## JSON
 * script_launch_sass.json : Le script a placer dans un fichier JSON pour surveiller un SCSS. Accompagné de la commande pour votre Node.js
