@@ -14,7 +14,8 @@ _______________________________________________________
 
 # <a href="#changelog">CHANGELOG<a>
 ## 1.0 (06.10.21)
-Ajout de la première volée de fichiers.
+* Ajout de la première volée de fichiers et de sites internets.
+* Construction d'un Readme agréable.
 
 
 # <a href="#liste">LISTE<a>
