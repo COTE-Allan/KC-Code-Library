@@ -29,3 +29,4 @@ Ajout de la première volée de fichiers.
 * [Animate](https://animate.style/) : Générateur d'animations CSS.
 * [Whois](https://www.afnic.fr/noms-de-domaine/tout-savoir/whois-trouver-un-nom-de-domaine/) : Pour trouver un nom de domaine.
 * [CanIUse](https://caniuse.com/) : Pour savoir si une techno HTML/CSS est utilisable ou encore en test.
+* [W3C](https://validator.w3.org/) : **LE** validateur de code HTML/CSS
