@@ -2,7 +2,7 @@
 
 KC-Code-Library est une librairie personnelle de codes et de templates.
 # SOMMAIRE
-* [CHANGELOG](#log)
+* [CHANGELOG](#changelog)
 * [LISTE](#liste)
   * [CSS](#css)
   * [SCSS](#scss)
@@ -12,7 +12,7 @@ KC-Code-Library est une librairie personnelle de codes et de templates.
 
 _______________________________________________________
 
-# <a href="#log">CHANGELOG<a>
+# <a href="#changelog">CHANGELOG<a>
 ## 1.0 (06.10.21)
 Ajout de la première volée de fichiers.
 
