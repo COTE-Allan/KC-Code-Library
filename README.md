@@ -45,3 +45,4 @@ Ajout de la première volée de fichiers.
 * [fullPage](https://alvarotrigo.com/fullPage/#page3) : Un outil JS pour créer une site One Page avec des sections en scrollant.
 * [Lorem Picsum](https://picsum.photos/) : Votre générateur d'images placeholder favori.
 * [Lorem Ipsum](https://www.lipsum.com/feed/html) : Venez piocher votre texte Lorem.
+* [heatmap.js](https://www.patrick-wied.at/static/heatmapjs/) : Un plugin pour connaître les zones les plus regardés sur vos pages.
