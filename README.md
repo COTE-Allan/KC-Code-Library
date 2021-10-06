@@ -25,4 +25,4 @@ Ajout de la première volée de fichiers.
 
 ## SITES INTERNETS
 * Google fonts : Pour vos polices d'écritures gratuites.
-* Coolors.co :
+* [Coolors](coolors.co) : Pour vos palettes de couleurs.
