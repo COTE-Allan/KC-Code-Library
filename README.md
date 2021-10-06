@@ -10,6 +10,8 @@ KC-Code-Library est une librairie personnelle de codes et de templates.
   * [JSON](#json)
 * [SITES INTERNETS](#sites)
 
+_______________________________________________________
+
 # <a href="#log">CHANGELOG<a>
 ## 1.0 (06.10.21)
 Ajout de la première volée de fichiers.
