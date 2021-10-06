@@ -1,7 +1,6 @@
 # KC-Code-Library
 
 KC-Code-Library est une librairie personnelle de codes et de templates.
-Si tu lis, ceci, alors je t'ai passé un lien, félicitation. :)
 
 Résumé de chaque fichier :
 
