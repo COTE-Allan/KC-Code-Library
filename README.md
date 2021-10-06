@@ -34,8 +34,6 @@ Ajout de la première volée de fichiers.
 * script_launch_sass.json : Le script a placer dans un fichier JSON pour surveiller un SCSS. Accompagné de la commande pour votre Node.js
 
 # <a href="#sites">SITES INTERNETS<a>
-<details><summary>Ouvrir la liste</summary>
-<p>
 * [Google Fonts](https://fonts.google.com/) : Pour vos polices d'écritures gratuites.
 * [Coolors](https://coolors.co/) : Pour vos palettes de couleurs.
 * [Animate](https://animate.style/) : Générateur d'animations CSS.
@@ -47,5 +45,3 @@ Ajout de la première volée de fichiers.
 * [fullPage](https://alvarotrigo.com/fullPage/#page3) : Un outil JS pour créer une site One Page avec des sections en scrollant.
 * [Lorem Picsum](https://picsum.photos/) : Votre générateur d'images placeholder favori.
 * [Lorem Ipsum](https://www.lipsum.com/feed/html) : Venez piocher votre texte Lorem.
-</p>
-</details>
