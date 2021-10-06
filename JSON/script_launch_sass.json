@@ -1,0 +1,11 @@
+
+Script JSON :
+
+  "scripts": {
+    "sass": "sass --watch ./scss/input.scss:./assets/css/output.css"
+  },
+
+
+Commande CMD :
+
+npm run sass

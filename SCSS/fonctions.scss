@@ -1,0 +1,7 @@
+Ressortir une ou plusieurs valeurs d'une variable map :
+
+@function mapGet($map, $key1) {
+  @each $key in $list {
+    $map: map-get($map, $key);
+  }
+  @return $map
