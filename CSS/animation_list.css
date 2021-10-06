@@ -10,12 +10,16 @@
     background-position: 0 50%;
   }
 }
+
+
 /* L'objet va faire un tour complet sur lui même. */
 @keyframes spin {
   100% {
     transform: rotate(360deg);
   }
 }
+
+
 /* L'objet va apparaître et disparaître en se déplacant vers la gauche. */
 @keyframes cloud {
   0% {
@@ -29,31 +33,8 @@
     transform: scale(0.5) translate(-200%, -3em);
   }
 }
-/* Animation complexe qui risque de ne pas fonctionner avec tout. */
-@keyframes rain {
-  0% {
-    background: #0cf;
-    box-shadow: 0.625em 0.875em 0 -0.125em rgba(255, 255, 255, 0.2),
-      -0.875em 1.125em 0 -0.125em rgba(255, 255, 255, 0.2),
-      -1.375em -0.125em 0 #0cf;
-  }
-  25% {
-    box-shadow: 0.625em 0.875em 0 -0.125em rgba(255, 255, 255, 0.2),
-      -0.875em 1.125em 0 -0.125em #0cf,
-      -1.375em -0.125em 0 rgba(255, 255, 255, 0.2);
-  }
-  50% {
-    background: rgba(255, 255, 255, 0.3);
-    box-shadow: 0.625em 0.875em 0 -0.125em #0cf,
-      -0.875em 1.125em 0 -0.125em rgba(255, 255, 255, 0.2),
-      -1.375em -0.125em 0 rgba(255, 255, 255, 0.2);
-  }
-  100% {
-    box-shadow: 0.625em 0.875em 0 -0.125em rgba(255, 255, 255, 0.2),
-      -0.875em 1.125em 0 -0.125em rgba(255, 255, 255, 0.2),
-      -1.375em -0.125em 0 #0cf;
-  }
-}
+
+
 /* Change l'objet pour donner un effet Eclair */
 @keyframes lightning {
   45% {
@@ -72,6 +53,8 @@
     opacity: 0.2;
   }
 }
+
+
 /* Fait clignoter l'objet une fois. */
 @keyframes blink-animation {
   from {
@@ -84,6 +67,8 @@
     opacity: 100%;
   }
 }
+
+
 /* Slide pour background infini */
 @keyframes slide {
   0% {
