@@ -3,7 +3,7 @@
 KC-Code-Library est une librairie personnelle de codes et de templates.
 
 # CHANGELOG
-## V.1 : 06.10.21
+## 1.0 (06.10.21)
 Ajout de la première volée de fichiers.
 
 
