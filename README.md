@@ -22,3 +22,7 @@ Ajout de la première volée de fichiers.
 
 ## JSON
 * script_launch_sass.json : Le script a placer dans un fichier JSON pour surveiller un SCSS. Accompagné de la commande pour votre Node.js
+
+## SITES INTERNETS
+* Google fonts : Pour vos polices d'écritures gratuites.
+* Coolors.co :
