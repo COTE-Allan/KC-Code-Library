@@ -47,3 +47,4 @@ _______________________________________________________
 * [Lorem Picsum](https://picsum.photos/) : Votre générateur d'images placeholder favori.
 * [Lorem Ipsum](https://www.lipsum.com/feed/html) : Venez piocher votre texte Lorem.
 * [heatmap.js](https://www.patrick-wied.at/static/heatmapjs/) : Un plugin pour connaître les zones les plus regardés sur vos pages.
+* [MakeMyPersona](https://www.hubspot.fr/make-my-persona) : Un outil de création de personas.
