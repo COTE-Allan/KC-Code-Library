@@ -48,3 +48,4 @@ _______________________________________________________
 * [Lorem Ipsum](https://www.lipsum.com/feed/html) : Venez piocher votre texte Lorem.
 * [heatmap.js](https://www.patrick-wied.at/static/heatmapjs/) : Un plugin pour connaître les zones les plus regardés sur vos pages.
 * [MakeMyPersona](https://www.hubspot.fr/make-my-persona) : Un outil de création de personas.
+* [Compress](https://compressjpeg.com/) : Un outil pour convertir et compresser vos images.
