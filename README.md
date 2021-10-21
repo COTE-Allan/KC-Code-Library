@@ -1,6 +1,6 @@
 # KC-Code-Library
 
-KC-Code-Library est une librairie personnelle de codes et de templates concu par Allan COTE.
+KC-Code-Library est une librairie personnelle de codes et de templates fabriqués ou récupérés, concu par Allan COTE.
 # SOMMAIRE
 * [CHANGELOG](#changelog)
 * [LISTE](#liste)
