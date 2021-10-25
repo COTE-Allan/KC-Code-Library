@@ -1,0 +1,5 @@
+Observer avec Sass :
+npm run sass
+
+Créer un projet React :
+npx create-react-app nom_fichier
