@@ -1,0 +1,7 @@
+
+Script JSON :
+
+  "scripts": {
+    "sass": "sass --watch .assets/scss/input.scss:./assets/css/output.css"
+  },
+
