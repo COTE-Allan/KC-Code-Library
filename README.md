@@ -32,7 +32,7 @@ _______________________________________________________
 * template_php.rar : Un template de base pour vos sites PHP.
 
 ## <a href="#json">JSON<a>
-* script_launch_sass.json : Le script a placer dans un fichier JSON pour surveiller un SCSS. Accompagné de la commande pour votre Node.js
+* script_launch_sass.txt : Le script a placer dans un fichier JSON pour surveiller un SCSS.
 
 # <a href="#sites">SITES INTERNETS<a>
 * [Google Fonts](https://fonts.google.com/) : Pour vos polices d'écritures et icônes gratuits.
