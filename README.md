@@ -35,7 +35,7 @@ _______________________________________________________
 * script_launch_sass.json : Le script a placer dans un fichier JSON pour surveiller un SCSS. Accompagné de la commande pour votre Node.js
 
 # <a href="#sites">SITES INTERNETS<a>
-* [Google Fonts](https://fonts.google.com/) : Pour vos polices d'écritures gratuites.
+* [Google Fonts](https://fonts.google.com/) : Pour vos polices d'écritures et icônes gratuits.
 * [Coolors](https://coolors.co/) : Pour vos palettes de couleurs.
 * [Animate](https://animate.style/) : Générateur d'animations CSS.
 * [Whois](https://www.afnic.fr/noms-de-domaine/tout-savoir/whois-trouver-un-nom-de-domaine/) : Pour trouver un nom de domaine.
