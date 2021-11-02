@@ -6,6 +6,7 @@ KC-Code-Library est une librairie personnelle de codes, templates et sites inter
 * [LISTE](#liste)
   * [CSS](#css)
   * [SCSS](#scss)
+  * [REACT](#react)
   * [TEMPLATES](#templates)
   * [JSON](#json)
 * [SITES INTERNETS](#sites)
@@ -13,6 +14,8 @@ KC-Code-Library est une librairie personnelle de codes, templates et sites inter
 _______________________________________________________
 
 # <a href="#changelog">CHANGELOG<a>
+## 1.1 (02.11.21)
+* Ajout d'un dossier REACT et de quelques fonctions natives de React importantes.
 ## 1.0 (06.10.21)
 * Ajout de la première volée de fichiers et de sites internets.
 * Construction d'un Readme agréable.
@@ -28,6 +31,9 @@ _______________________________________________________
 * breakpoint.scss : Un ensemble de mixins pour gérer le responsive d'un site en Sassy Sass.
 * fonctions.scss : Ma liste de fonctions SCSS.
 
+## <a href="#react">REACT JS<a>
+* function_react.js : Un ensemble de fonctions utiles présentes dans React.
+ 
 ## <a href="#templates">TEMPLATES<a>
 * template_php.rar : Un template de base pour vos sites PHP.
 
