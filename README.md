@@ -36,6 +36,7 @@ _______________________________________________________
  
 ## <a href="#templates">TEMPLATES<a>
 * template_php.rar : Un template de base pour vos sites PHP.
+* src_template_for_react.rar : Un template de base pour le dossier "src" d'un projet react !
 
 ## <a href="#json">JSON<a>
 * script_launch_sass.txt : Le script a placer dans un fichier JSON pour surveiller un SCSS.
