@@ -30,6 +30,7 @@ _______________________________________________________
 ## <a href="#scss">SASSY SASS (SCSS)<a>
 * breakpoint.scss : Un ensemble de mixins pour gérer le responsive d'un site en Sassy Sass.
 * fonctions.scss : Ma liste de fonctions SCSS.
+* scssCore : Un dossier comprenant 5 fichiers SCSS essentiels pour un site web.
 
 ## <a href="#react">REACT JS<a>
 * function_react.js : Un ensemble de fonctions utiles présentes dans React.
