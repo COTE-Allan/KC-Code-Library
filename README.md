@@ -60,3 +60,4 @@ _______________________________________________________
 * [Webmii](https://webmii.com/) : Un outil pour retrouver sa présence ou la présence de ses sites sur internet.
 * [Kit de Survie du Créatif](https://kitdesurvie.metiers-graphiques.fr/) : J'ai vraiment besoin d'en dire plus ?
 * [Creative Commons](https://creativecommons.org/choose/) : Pour créer une license CC sur vos travaux.
+* [Datatables](https://datatables.net/) : Un plugin de tableaux avancés.
