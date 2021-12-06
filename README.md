@@ -43,21 +43,27 @@ _______________________________________________________
 * script_launch_sass.txt : Le script a placer dans un fichier JSON pour surveiller un SCSS.
 
 # <a href="#sites">SITES INTERNETS<a>
+## <a href="#html_sites">Pour vos sites<a>
+* [Animate](https://animate.style/) : Générateur d'animations CSS.
+* [Line Awesome](https://icons8.com/line-awesome) : Une base de données d'icônes.
+* [fullPage](https://alvarotrigo.com/fullPage/#page3) : Un outil JS pour créer une site One Page avec des sections en scrollant.
+* [Datatables](https://datatables.net/) : Un plugin de tableaux avancés.
+* [MUI](https://mui.com/) : Une library de composants pour React.
+* [BoxIcons](https://boxicons.com/) : Une excellente base de données d'icônes.
+## <a href="#generators_sites">Générateurs<a>
+* [Grid Generator](https://grid.layoutit.com/) : Un outil de création de grid.
+* [MakeMyPersona](https://www.hubspot.fr/make-my-persona) : Un outil de création de personas.
+## <a href="#generators_sites">Graphique<a>
 * [Google Fonts](https://fonts.google.com/) : Pour vos polices d'écritures et icônes gratuits.
 * [Coolors](https://coolors.co/) : Pour vos palettes de couleurs.
-* [Animate](https://animate.style/) : Générateur d'animations CSS.
+* [Lorem Picsum](https://picsum.photos/) : Votre générateur d'images placeholder favori.
+* [Lorem Ipsum](https://www.lipsum.com/feed/html) : Venez piocher votre texte Lorem.
+## <a href="#generators_sites">Outils<a>
 * [Whois](https://www.afnic.fr/noms-de-domaine/tout-savoir/whois-trouver-un-nom-de-domaine/) : Pour trouver un nom de domaine.
 * [CanIUse](https://caniuse.com/) : Pour savoir si une techno HTML/CSS est utilisable ou encore en test.
 * [W3C](https://validator.w3.org/) : **LE** validateur de code HTML/CSS.
-* [Grid Generator](https://grid.layoutit.com/) : Un outil de création de grid.
-* [Line Awesome](https://icons8.com/line-awesome) : Une base de données d'icônes.
-* [fullPage](https://alvarotrigo.com/fullPage/#page3) : Un outil JS pour créer une site One Page avec des sections en scrollant.
-* [Lorem Picsum](https://picsum.photos/) : Votre générateur d'images placeholder favori.
-* [Lorem Ipsum](https://www.lipsum.com/feed/html) : Venez piocher votre texte Lorem.
 * [heatmap.js](https://www.patrick-wied.at/static/heatmapjs/) : Un plugin pour connaître les zones les plus regardés sur vos pages.
-* [MakeMyPersona](https://www.hubspot.fr/make-my-persona) : Un outil de création de personas.
 * [Compress](https://compressjpeg.com/) : Un outil pour convertir et compresser vos images.
 * [Webmii](https://webmii.com/) : Un outil pour retrouver sa présence ou la présence de ses sites sur internet.
 * [Kit de Survie du Créatif](https://kitdesurvie.metiers-graphiques.fr/) : J'ai vraiment besoin d'en dire plus ?
 * [Creative Commons](https://creativecommons.org/choose/) : Pour créer une license CC sur vos travaux.
-* [Datatables](https://datatables.net/) : Un plugin de tableaux avancés.
